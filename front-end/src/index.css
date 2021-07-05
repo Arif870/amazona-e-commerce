@@ -85,3 +85,7 @@ footer {
 .price p {
   color: #203040;
 }
+.rating span:last-child {
+  color: #203040;
+  margin-left: 5px;
+}
